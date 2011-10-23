@@ -1,0 +1,7 @@
+#run this commmands on your hbase console.
+create 'tweets', 'data'
+create 'followers', 'data'
+create 'followeds', 'data'
+create 'tweetline' , 'data'
+create 'users', 'data'
+
